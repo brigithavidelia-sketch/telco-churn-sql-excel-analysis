@@ -52,4 +52,4 @@ Laporan data bersih dieksport ke Tableau Public untuk menyusun visualisasi inter
 ### 📊 Tautan Proyek Lengkap
 
 * 📊 [Lihat Dashboard Interaktif di Tableau Public](https://public.tableau.com/views/TelcoCustomerChurnAnalysis_17929109415620/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* 🗃️ [Unduh Dataset Mentah Telco Churn (.csv)](telco_churn_analysis.xlsx.xlsx)
+* 🗃️ [Unduh Laporan Pivot Tabel Excel (.xlsx)](telco_churn_excel_analysis.xlsx)
